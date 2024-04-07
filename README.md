@@ -44,9 +44,9 @@ Create a new VPC in the AWS Management Console to isolate the network environmen
 
 # Enable auto-assign public IPv4 address to your Public1 and Public2 subnet
 
-![Enrollment](publicipv4.png)
+![Enrollment](Images/publicipv4.png)
 
-![Enrollment](Enable-Auto-assgn.png)
+![Enrollment](Images/Enable-Auto-assgn.png)
 
 
 # 2. Security Group Configuration:
