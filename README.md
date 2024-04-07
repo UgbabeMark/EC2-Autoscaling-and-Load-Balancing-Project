@@ -1,5 +1,7 @@
 # EC2-Autoscaling-and-Load-Balancing
 
+![Enrollment](Images/ASG.png)
+
 Welcome to the EC2 Autoscaling and Load Balancing project repository! This project is designed to showcase the implementation of autoscaling and load balancing for EC2 instances on AWS. Below, you'll find an overview of the project, including resources utilized and setup instructions.
 
 # Overview
