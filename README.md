@@ -37,6 +37,12 @@ __Cost Optimization:__ By automatically scaling resources based on demand, you o
 # 1. VPC Creation: 
 Create a new VPC in the AWS Management Console to isolate the network environment for the EC2 instances.
 
+![Enrollment](Images/Vpc.png)
+
+
+![Enrollment](Images/VPC2.png)
+
+
 # 2. Security Group Configuration:
 
 Configure security groups to control inbound and outbound traffic to the EC2 instances. Define rules to allow necessary communication.
