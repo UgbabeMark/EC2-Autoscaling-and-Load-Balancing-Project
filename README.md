@@ -42,6 +42,12 @@ Create a new VPC in the AWS Management Console to isolate the network environmen
 
 ![Enrollment](Images/VPC2.png)
 
+# Enable auto-assign public IPv4 address to your Public1 and Public2 subnet
+
+![Enrollment](publicipv4.png)
+
+![Enrollment](Enable-Auto-assgn.png)
+
 
 # 2. Security Group Configuration:
 
@@ -93,6 +99,20 @@ __3. On Advance details scroll to the User data and paste the user data provided
 
 ![Enrollment](Images/Launch-temp3.png)
 
+
+
 # 6.Autoscaling Group Configuration:
 
-Configure an autoscaling group to automatically adjust the number of EC2 instances based on metrics such as CPU utilization or network traffic. Associate the autoscaling group with the launch template and target group.
+Configure an autoscaling group to automatically adjust the number of EC2 instances based on metrics such as CPU utilization or network traffic. 
+
+Associate the autoscaling group with the launch template and target group.
+
+
+![Enrollment](Images/ASG1.png)
+
+![Enrollment](Images/ASG2.png)
+
+![Enrollment](Images/ASG3.png)
+
+![Enrollment](Images/ASG4.png)
+
