@@ -1,4 +1,4 @@
-# EC Autoscaling and Load-Balancing
+# EC Autoscaling and Load Balancing
 
 ![Enrollment](Images/ASG.png)
 
